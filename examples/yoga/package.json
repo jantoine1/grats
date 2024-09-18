@@ -32,7 +32,8 @@
     "typescript": "^5.5.4"
   },
   "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
     "@types/node": "^20.8.10",
-    "grats": "workspace:*"
+    "grats": "^0.0.29"
   }
 }
